@@ -1,0 +1,3 @@
+hi,
+this is notepad project in advanced c
+test 1..
